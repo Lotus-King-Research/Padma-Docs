@@ -1,4 +1,4 @@
-![logo](_media/Padma_logo.png)
+![logo](_media/Padma_Logo_Icon.png)
 
 ## v.0.3.0
 
