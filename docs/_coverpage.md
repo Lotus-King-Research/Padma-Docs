@@ -1,6 +1,6 @@
 ![logo](_media/Padma_logo.png)
 
-## v.0.2.0
+## v.0.3.0
 
 > Computational linguistics for Tibetan Buddhadharma
 
